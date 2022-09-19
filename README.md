@@ -86,3 +86,5 @@ When you log in as an Instructor, you will see a sample assignment is available 
 - [Overview](https://nbgrader.readthedocs.io/en/stable/user_guide/highlights.html)
 - [NBGrader Documentation](https://nbgrader.readthedocs.io/en/stable/)
 
+### Please note - This demo is only for local use. Please don't host it on public facing server or in Production environment.
+
