@@ -74,8 +74,15 @@ Well Done! now you are all set to use the Upskill server. Open the upskill serve
 When you log in as an Instructor, you will see a sample assignment is available in home directory. You can use it to get yourself familiar with Upskill Server.
 
 ### Upskill server is based on a set of awesome Open-Source tools available for general use.
+
 - [NBGrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading Jupyter notebooks.
 - [Jupyter Notebooks](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing
 - [Jupyterhub](https://github.com/jupyterhub/jupyterhub) - a multi-user environment for Jupyter Notebooks
 - [Jupyter Lab](https://github.com/jupyterlab/jupyterlab) - a next generation IDE for Jupyter Notebooks
 - [IJava Kernel for Jupyter Notebooks](https://github.com/SpencerPark/IJava) - A Jupyter kernel for executing Java code in Jupyter Notebooks
+
+### How to use NBGrader for setting / using assignments?
+
+- [Overview](https://nbgrader.readthedocs.io/en/stable/user_guide/highlights.html)
+- [NBGrader Documentation](https://nbgrader.readthedocs.io/en/stable/)
+
